@@ -22,3 +22,9 @@ A simple example of making knockback using GameMaker's physics system.
 A graphical debug console that makes testing easier.
 
 Before it was paid, but I'm not using it anymore, so I'm putting it here too.
+
+### Text Box Maker PRO (for GMS 1.4)
+A dialogue system. Previously paid, now free and open source. It's the predecessor of my [Dialogue engine for GameMaker](https://pikku-a.itch.io/dialogue-engine).
+
+### Simple dialog maker (for GMS 1.4)
+Another dialogue system. It's the predecessor of the other dialogue system. The grandfather of my [Dialogue engine for GameMaker](https://pikku-a.itch.io/dialogue-engine), you could say.
