@@ -1,0 +1,4 @@
+# Re-classify .yy files (for GameMaker projects)
+# *.yy linguist-language=JSON
+# *.yy linguist-generated=true
+*.yy linguist-documentation=true

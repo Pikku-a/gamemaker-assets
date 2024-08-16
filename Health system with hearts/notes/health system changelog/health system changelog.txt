@@ -1,0 +1,14 @@
+Health system changelog
+-----------------------
+Version 1.0.2.
+- GameMaker version 2.3+ added
+- Removed 2 fonts and replaced them with 1
+- Improved code in general
+- Improved code formatting and comments
+- Improved styling of example
+- Added this changelog
+
+-----------------------
+Version 1.0.1.
+- GameMaker: Studio 2 version added!
+- Also some polishing.

@@ -1,0 +1,19 @@
+Testing helper Changelog
+------------------------
+Version 2.0.0
+
+- Added changelog
+- Now compatible with GameMaker Studio's latest versions
+- **Added fps real next to fps**
+- **Rewrited searching for object**
+- **Rewrited Move Mode**
+- **Added button to change variable**
+- **Added button to change room to a specific room**
+- **Now it fits smaller views better**
+- Customization options
+- Changed some object names
+- A lot of optimization
+- Added 2 more rooms for testing
+- Improved code formatting and comments
+- Updated manual
+- Lots of other stuff

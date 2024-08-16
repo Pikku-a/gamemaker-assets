@@ -1,0 +1,43 @@
+Testing helper Manual
+--------------------
+
+HOW TO USE
+
+1. Put the test_helper object in to the first room.
+2. Optional: Make a layer called "hud" for every room and put it on top of everything. (If you don't do this the layer will be created automatically, but it's sometimes better to manually add it.)
+3. When testing your game: Press ctrl(control) or F1 to open the Testing Helper window.
+
+------------------------------------------
+
+TOOLS
+
+ROOMS
+Change room: Click an arrow to move to the next or to the previous room. There is also an arrow button to go to a specific room.
+Restart room: Click this to restart the room.
+
+OBJECTS
+Objects in room: This shows how many objects are in the room (minus testing helper objects). It's useful to see, for example, if something creates objects all the time unnecessarily.
+Search for objects: Click this and write an objects name to see if it is in the room and where.
+Create object: Click this button to create an object to the instances layer
+Change var: Click this to change a variable. (Currently it works only with numbers and booleans.)
+
+MOVE MODE
+Move mode: Click this to enable Move Mode. Then type an object you don't want to move, for example, a wall or floor object.
+You can currently choose only one object. If you cancel or write the name incorrectly, all objects can be moved.
+In the move mode you can also see an objects name if you right click it. (Move mode doesn't work with physics currently (probably)).
+
+OTHER
+FPS: In the bottom of the Test Helper window you can see a FPS (frames per second) counter.
+
+-------------------------------------------
+
+TROUBLESHOOTING
+
+- The testing helper buttons are not visible: This is probably because the hud layer is not on top of the layer where test_helper object is.
+- 
+
+-------------------------------------------
+
+CONTACT
+If there are any problems or if you have suggestions for improvements or new features, you can email me.
+My email: pikkua.games@gmail.com
